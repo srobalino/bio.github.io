@@ -1,0 +1,45 @@
+
+body{
+
+    background-color: rgb(196, 246, 255);
+}
+h1{
+margin-bottom: 15px;
+/* Change the size of your font to 60 pixels high. */
+font-size: 60px;
+/* This will color the heading font white. */
+color: white;
+/* Align the text to the center of its enclosing element (e.g. div). */
+text-align: center;
+/* Underline the text. */
+text-decoration: underline;
+/* The background of the heading element will now be black. */
+background-color: rgb(184, 120, 178);
+}
+
+h2{
+    text-align: center;
+    font-size: 45px;
+    font-style: oblique;
+
+    
+}
+
+h3{
+    text-align: center;
+    font-optical-sizing: 35px;
+
+}
+
+p{
+    text-align: justify;
+}
+
+img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
